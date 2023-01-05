@@ -1,5 +1,9 @@
-# Weather-App-Project
+# Web Dev for Makers Starter NextJS Template
 
-##### This repository contains all the files that are needed to showcase my local Weather App webpage.
+Use to bootstrap class (or future out-of-class) projects.
 
-##### I integrated HTML and CSS fundamentals to design a weather app webpage that displays a city's current temperature and its weather forecasts. I extracted and processed weather information through the OpenWeatherApp API using JavaScript, React, TailwindCSS, and Axios.
+To use this template, first make sure you have Node installed, and then run in your terminal:
+
+```
+npx create-next-app -e https://github.com/webdevformakers/webdevformakers-basic-template
+```
